@@ -44,7 +44,7 @@ The **KT6368A** is particularly advantageous for **BMS lithium battery products*
 ✔ **Flexible Design** - Compatible with various mainboard shapes.
 ✔ **Balanced Performance** - Not the lowest power consumption, but the **best cost-to-efficiency ratio**.
 
-![Battery Swap Application](https://github.com/blevoice/pic/blob/5d811308ccd18e62503ce363ebfc9e2256f8cff7/062205.jpeg))
+![Battery Swap Application](https://github.com/blevoice/pic/blob/5d811308ccd18e62503ce363ebfc9e2256f8cff7/062205.jpeg)
 
 ### Final Thought:
 > *"It's not about being the absolute best—it's about being the **right fit**."*
