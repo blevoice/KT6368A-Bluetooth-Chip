@@ -21,7 +21,7 @@ The smart battery swap cabinet is an innovative solution that has emerged as tec
 - **Balanced Performance:** While not the cheapest or the most power-efficient, the **KT6368A dual-mode Bluetooth chip** offers the **best cost-efficiency and low power consumption trade-off**.
 - **Optimal Solution:** No alternatives match its balance—it's simply the **right fit**.
 
-![KT6368A Chip Features](https://github.com/blevoice/pic/blob/5d811308ccd18e62503ce363ebfc9e2256f8cff7/062203.jpg)
+![KT6368A Chip Features](https://github.com/blevoice/pic/blob/5d811308ccd18e62503ce363ebfc9e2256f8cff7/062203.png)
 
 ## 2. Chip Overview
 The **KT6368A** is a **dual-mode Bluetooth 5.1 data chip** with key highlights:
@@ -44,7 +44,7 @@ The **KT6368A** is particularly advantageous for **BMS lithium battery products*
 ✔ **Flexible Design** - Compatible with various mainboard shapes.
 ✔ **Balanced Performance** - Not the lowest power consumption, but the **best cost-to-efficiency ratio**.
 
-![Battery Swap Application](https://github.com/blevoice/pic/blob/5d811308ccd18e62503ce363ebfc9e2256f8cff7/062205.jpg)
+![Battery Swap Application](https://github.com/blevoice/pic/blob/5d811308ccd18e62503ce363ebfc9e2256f8cff7/062205.jpeg))
 
 ### Final Thought:
 > *"It's not about being the absolute best—it's about being the **right fit**."*
