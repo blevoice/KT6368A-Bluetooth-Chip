@@ -13,19 +13,18 @@ The smart battery swap cabinet is an innovative solution that has emerged as tec
 
 - **Problem Solved:** Delivery riders and couriers no longer need to compete for charging spots or buy multiple e-bikes to maintain productivity.
 - **Impact:** Logistics and food delivery efficiency has greatly improved, while safety risks have been reduced.
+- **Battery Integration:** Most batteries in swap cabinets now include **BMS (Battery Management System) protection boards**, typically communicating with the backend via **4G**.
 
 ![BMS Protection Board](https://github.com/blevoice/pic/blob/5d811308ccd18e62503ce363ebfc9e2256f8cff7/062202.jpg)
-
-- **Battery Integration:** Most batteries in swap cabinets now include **BMS (Battery Management System) protection boards**, typically communicating with the backend via **4G**.
 
 ### Why the KT6368A?
 - **Balanced Performance:** While not the cheapest or the most power-efficient, the **KT6368A dual-mode Bluetooth chip** offers the **best cost-efficiency and low power consumption trade-off**.
 - **Optimal Solution:** No alternatives match its balance—it's simply the **right fit**.
 
+![KT6368A Chip Features](https://github.com/blevoice/pic/blob/5d811308ccd18e62503ce363ebfc9e2256f8cff7/062203.jpg)
+
 ## 2. Chip Overview
 The **KT6368A** is a **dual-mode Bluetooth 5.1 data chip** with key highlights:
-
-![KT6368A Chip Features](https://github.com/blevoice/pic/blob/5d811308ccd18e62503ce363ebfc9e2256f8cff7/062203.jpg)
 
 - **Ultra-compact size**
 - **Ultra-low cost**
