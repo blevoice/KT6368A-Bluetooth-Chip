@@ -39,6 +39,7 @@ u8 generate_xor_checksum(u8 *data, u8 length) {
     }
     return checksum;
 }
+
 ![Checksum Code](https://github.com/blevoice/pic/blob/489878ee15153e8f0120921c328efd281c0a282d/062405.png)
 
 ## 5. Broadcast Cycle Observation
